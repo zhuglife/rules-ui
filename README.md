@@ -95,4 +95,5 @@ Operational and IT administrators of pharmacy chains.
 - Icon: download arrow
 - Triggers API call to fetch full list
 - Generates `.txt` file with one item per line
-- **File naming convention:**
+- **GETTING STARTED:**
+- npm run dev
