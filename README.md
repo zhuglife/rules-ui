@@ -29,7 +29,7 @@ Operational and IT administrators of pharmacy chains.
 - **Build/CI:** Node 20+, Vercel/Netlify, or CI pipeline (GitHub Actions)
 
 ---
-
+XXXX
 ## 3. Functional Requirements
 
 ### 3.1 Client Management Module
@@ -89,11 +89,5 @@ Operational and IT administrators of pharmacy chains.
 - Result counter
 
 ---
-
-**Download Functionality:**
-- Download button per list type (4 buttons per row)
-- Icon: download arrow
-- Triggers API call to fetch full list
-- Generates `.txt` file with one item per line
 - **GETTING STARTED:**
 - npm run dev
